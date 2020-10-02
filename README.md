@@ -12,6 +12,6 @@
 - 1 Enemy
 
 ![alt text](https://github.com/Robakuuu/Tower-Defence-OpenGL/blob/master/1.jpg)
-                      **Awesome trees!**
+                       **Cozy table!**
 ![alt text](https://github.com/Robakuuu/Tower-Defence-OpenGL/blob/master/2.jpg)
-                        **Cozy table!**
+                       **Awesome trees!** 
