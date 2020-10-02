@@ -1,6 +1,10 @@
 # Tower Defence in OpenGL 
 3D Tower Defence game made by Daniel Robaszkiewicz (graphics, mechanics, idea), Marcin Werbliński (mechanics) and Ph.D. Witold Andrzejewski (shaders).
 
+# Tools&Tech
+* [OpenGL] - That one thing that allow us to draw something!
+* [VS2017] - Visual Studio 2017 IDE
+
 # Done:
 - Full lighting of an objects with proper shading
 - Loading models from .obj files
@@ -21,11 +25,11 @@
 - More towers
 - More enemies
 - Seperate some modules from main_file
-# Tech
-* [OpenGL] - That one thing that allow us to draw something!
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
    [OpenGL]: <https://www.opengl.org/>
+   [VS2017]: <https://visualstudio.microsoft.com/pl/vs/older-downloads/>
  
