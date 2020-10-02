@@ -3,6 +3,7 @@
 
 # Tools&Tech
 * [OpenGL] - That one thing that allow us to draw something!
+* [GL3W] - Extension for OpenGL
 * [VS2017] - Visual Studio 2017 IDE (C++)
 
 # Done:
@@ -32,4 +33,6 @@
 
    [OpenGL]: <https://www.opengl.org/>
    [VS2017]: <https://visualstudio.microsoft.com/pl/vs/older-downloads/>
+   [GL3W]: <https://www.khronos.org/opengl/wiki/OpenGL_Loading_Library>
+ 
  
