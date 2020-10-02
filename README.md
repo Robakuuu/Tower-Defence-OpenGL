@@ -3,7 +3,7 @@
 
 # Tools&Tech
 * [OpenGL] - That one thing that allow us to draw something!
-* [VS2017] - Visual Studio 2017 IDE
+* [VS2017] - Visual Studio 2017 IDE (C++)
 
 # Done:
 - Full lighting of an objects with proper shading
