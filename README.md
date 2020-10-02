@@ -1,5 +1,6 @@
 # Tower Defence in OpenGL 
 3D Tower Defence single-player game made by Daniel Robaszkiewicz (graphics, mechanics, idea), Marcin Werbliński (mechanics) and Ph.D. Witold Andrzejewski (shaders).
+In this game you have to defend yourself by buying towers and destroying enemies on your table. 
 
 # Tools&Tech
 * [OpenGL] - That one thing that allow us to draw something!
